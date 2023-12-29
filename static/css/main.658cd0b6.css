@@ -1,0 +1,2 @@
+.object-grid{display:flex;flex-wrap:wrap;justify-content:center}.object-card{border:1px solid #ccc;border-radius:4px;box-shadow:0 4px 8px 0 #0003;display:flex;flex-direction:column;margin:10px;padding:20px;transition:.3s}.object-card:hover{box-shadow:0 8px 16px 0 #0003}.card-body{display:flex;flex-direction:column;height:100%;justify-content:space-between}.object-card img{height:auto;width:auto}.object-card .title{font-size:18px;font-weight:700;margin:10px 0}.object-card .description{color:#333;font-size:14px}
+/*# sourceMappingURL=main.658cd0b6.css.map*/
